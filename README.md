@@ -17,9 +17,9 @@ Sample Content
       <div class="fill bgc" data-src-background=""></div>
     </div>
     <div class="md-c1_2 p1">
-        <h1>Your Title Here</h1>
-        <p><a class="btn" href="#" target="_blank" rel="noopener noreferrer">Some Button</a></p>
-        <p>A descriptive text</p>
+        <h1>Page Title</h1>
+        <p><a class="btn" href="#" target="_blank" rel="noopener noreferrer">A Button</a></p>
+        <p>Some descriptive text</p>
     </div>
 </div>
 ```
