@@ -2,11 +2,8 @@
 Super Simple WordPress Theme
 
 
-
 This WordPress theme shows only content on your page. 
-
 No titles, no meta, no blog loop.
-
 
 
 Sample Content
